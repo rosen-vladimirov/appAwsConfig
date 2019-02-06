@@ -1,5 +1,7 @@
 # NativeScript
-hooks/
+hooks/**/*.js
+!hooks/after-prepare/awsconfiguration-hook.js
+
 node_modules/
 platforms/
 
